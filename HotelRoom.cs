@@ -6,7 +6,7 @@
         public static void Main()
         {
             string month = Console.ReadLine();
-            double nights = int.Parse(Console.ReadLine());
+            double nights = double.Parse(Console.ReadLine());
 
             double firstTotalPrice = 0;
             double secondTotalPrice = 0;
