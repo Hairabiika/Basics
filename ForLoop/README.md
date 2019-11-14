@@ -1,1 +1,1 @@
-basic for loop excercises in c#
+Basic for-loop excercises in c#
