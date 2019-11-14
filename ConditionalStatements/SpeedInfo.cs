@@ -7,7 +7,7 @@
         public static void Main()
         {
             double speed = double.Parse(Console.ReadLine());
-
+            
             if (speed <= 10) { Console.WriteLine("slow"); }
             if (speed > 10 && speed <= 50) { Console.WriteLine("average"); }
             if (speed > 50 && speed <= 150) { Console.WriteLine("fast"); }
