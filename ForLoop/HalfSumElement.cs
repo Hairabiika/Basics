@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class NumbersEndingIn7
+     
+    public class HalfSumElement
     {
         public static void Main()
         {
