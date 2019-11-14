@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class Scholarship
+     
+    public class PointOnRecBorder
     {
         public static void Main()
         {
@@ -22,8 +23,8 @@
             {
                 Console.WriteLine("Border"); 
             }
+            
             else { Console.WriteLine("Inside / Outside"); }
-
         }
     }
 }
