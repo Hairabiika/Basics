@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class Histogram
+     
+    public class DivideWithoutRemainder
     {
         public static void Main()
         {
