@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class Cinema
+     
+    public class SummerOutfit
     {
         public static void Main()
         {        
