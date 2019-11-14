@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class SumPrimeNonPrime
+     
+    public class TrainTheTrainers
     {
         public static void Main()
         {
@@ -26,7 +27,6 @@
                 combined += avg;
                 counter++;
                 Console.WriteLine($"{input} - {avg:F2}.");
-                
             }
 
             Console.WriteLine($"Student's final assessment is {(combined / counter):F2}.");
