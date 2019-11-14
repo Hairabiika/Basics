@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class BestPlaneTickets
     {
         public static void Main()
