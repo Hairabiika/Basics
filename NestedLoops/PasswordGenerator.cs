@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class Fishing
+     
+    public class PasswordGenerator
     {
         public static void Main()
         {
