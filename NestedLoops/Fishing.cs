@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class TrainTheTrainers
+     
+    public class Fishing
     {
         public static void Main()
         {
