@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class NewHouse
+     
+    public class FishingBoat
     {
         public static void Main()
         {
