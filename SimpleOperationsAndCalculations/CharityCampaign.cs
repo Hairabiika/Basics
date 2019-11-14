@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class DanceHall
+    public class CharityCampaign
     {
         public static void Main()
         {
