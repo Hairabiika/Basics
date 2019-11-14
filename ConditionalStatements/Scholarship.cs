@@ -9,7 +9,7 @@
             double income = double.Parse(Console.ReadLine());
             double grade = double.Parse(Console.ReadLine());
             double minSalary = double.Parse(Console.ReadLine());
-
+            
             double socialScolarship = 0;
             double successScolarship = 0;
 
