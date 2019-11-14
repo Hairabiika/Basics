@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class OnTimeForExam
     {
         public static void Main()
