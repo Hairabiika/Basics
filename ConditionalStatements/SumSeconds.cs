@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class AlcoholMarket
+    public class SumSeconds
     {
         public static void Main()
         {
