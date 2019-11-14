@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class GodzillaVsKong
+    public class WorldSwimmingRecord
     {
         public static void Main()
         {
