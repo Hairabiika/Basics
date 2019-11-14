@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class TimePlus15Min
+    public class GodzillaVsKong
     {
         public static void Main()
         {
