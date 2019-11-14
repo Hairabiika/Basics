@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class SpecialNumbers
+     
+    public class Savings
     {
         public static void Main()
         {
