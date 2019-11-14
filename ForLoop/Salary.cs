@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class DivideWithoutRemainder
+     
+    public class Salary
     {
         public static void Main()
         {
