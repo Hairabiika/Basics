@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class NumberPyramid
+     
+    public class Coding
     {
         public static void Main()
         {
@@ -20,7 +21,6 @@
             {
                 for (int j = 0; j < numbers % 10; j++)
                 {
-
                     Console.Write((char)(numbers % 10 + 33));
                 }
                 if (numbers % 10 == 0) { Console.Write("ZERO"); }
