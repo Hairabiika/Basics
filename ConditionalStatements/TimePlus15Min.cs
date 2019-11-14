@@ -21,10 +21,9 @@
                     hours = 0;
                 }
             }
-            if (minutes < 10) { Console.WriteLine("{0}:0{1}", hours, minutes);}
-
-            else { Console.WriteLine("{0}:{1}", hours, minutes); }
             
+            if (minutes < 10) { Console.WriteLine("{0}:0{1}", hours, minutes);}
+            else { Console.WriteLine("{0}:{1}", hours, minutes); }
         }
     }
 }
