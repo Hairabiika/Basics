@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class WorldSwimmingRecord
+    public class Scholarship
     {
         public static void Main()
         {
