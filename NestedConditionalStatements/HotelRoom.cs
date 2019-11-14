@@ -1,7 +1,7 @@
 ﻿namespace Basic
 {
     using System;
-    public class OperationsBetwNums
+    public class HotelRoom
     {
         public static void Main()
         {
