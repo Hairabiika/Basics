@@ -16,7 +16,6 @@
             {
                 while (true)
                 {
-                    
                     string input = Console.ReadLine();
                     if (input == "Day over") 
                     {
