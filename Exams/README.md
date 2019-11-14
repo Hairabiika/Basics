@@ -1,1 +1,1 @@
-Excercises for exams in basic c#
+Excercises for exam in basic c#
