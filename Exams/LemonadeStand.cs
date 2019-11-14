@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class LemonadeStand
     {
         public static void Main()
@@ -13,10 +14,8 @@
             double cups = totalLemonade / 150;
             double sum = Math.Floor(cups) * 1.20;
 
-
             Console.WriteLine($"All cups sold: {Math.Floor(cups)}");
             Console.WriteLine($"Money earned: {sum:F2}");
-
         }
     }
 }
