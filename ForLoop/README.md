@@ -1,0 +1,1 @@
+basic for loop excercises
