@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class Grades
     {
         public static void Main()
