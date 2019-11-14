@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class SumSeconds
+    public class BonusScore
     {
         public static void Main()
         {
