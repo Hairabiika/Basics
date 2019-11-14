@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class NumbersEndingIn7
     {
         public static void Main()
