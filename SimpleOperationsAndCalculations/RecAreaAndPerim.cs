@@ -16,6 +16,7 @@
             if (b < 0) { b *= -1; }
             double area =  a * b;
             double perimeter =  (a + b) * 2;
+            
             Console.WriteLine("{0:F2}", area);
             Console.WriteLine("{0:F2}", perimeter);
         }
