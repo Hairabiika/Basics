@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class OnTimeForExam
+     
+    public class Volleyball
     {
         public static void Main()
         {
