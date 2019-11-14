@@ -3,7 +3,7 @@
     using System;
     using System.Text;
 
-    public class TripExpences
+    public class BakingCompetition
     {
         public static void Main()
         {
