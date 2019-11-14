@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class BonusScore
+    public class SpeedInfo
     {
         public static void Main()
         {
