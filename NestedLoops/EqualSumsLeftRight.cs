@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class EqualSumsOfDigits
     {
         public static void Main()
