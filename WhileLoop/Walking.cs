@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class Walking
     {
         public static void Main()
