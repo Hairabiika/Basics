@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class PointOnRecBorder
+     
+    public class Cinema
     {
         public static void Main()
         {
