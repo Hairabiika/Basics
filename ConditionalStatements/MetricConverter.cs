@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class SpeedInfo
+    public class MetricConverter
     {
         public static void Main()
         {
