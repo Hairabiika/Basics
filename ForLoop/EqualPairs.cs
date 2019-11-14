@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class OddEvenPosition
+     
+    public class EqualPairs
     {
         public static void Main()
         {
