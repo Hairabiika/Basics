@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class Histogram
     {
         public static void Main()
