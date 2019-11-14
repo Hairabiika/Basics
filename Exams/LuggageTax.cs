@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class LuggageTax
     {
         public static void Main()
@@ -27,7 +28,6 @@
                 {
                     Console.WriteLine("Luggage tax: 20.00");
                 }
-
             }
 
             else if (!biletType)
@@ -48,7 +48,6 @@
                     Console.WriteLine("Luggage tax: 100.00");
                 }
             }
-
         }
     }
 }
