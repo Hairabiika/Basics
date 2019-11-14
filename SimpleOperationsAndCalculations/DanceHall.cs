@@ -14,6 +14,7 @@
             double wardrobeArea = wardrobeSide * wardrobeSide * 100 * 100;
             double benchArea = hallArea / 10;
             double freeSpace = hallArea - wardrobeArea - benchArea;
+            
             Console.WriteLine(Math.Floor(freeSpace / (7040)));
         }
     }
