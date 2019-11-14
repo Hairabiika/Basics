@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class OddEvenPosition
     {
         public static void Main()
