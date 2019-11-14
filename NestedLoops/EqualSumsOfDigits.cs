@@ -1,14 +1,13 @@
 ﻿namespace Basic
 {
     using System;
-    public class Coding
+     
+    public class EqualSumsOfDigits
     {
         public static void Main()
         {
             int firstNumber = int.Parse(Console.ReadLine());
             int secondNumber = int.Parse(Console.ReadLine());
-
-
 
             for (int i = firstNumber; i < secondNumber; i++)
             {
@@ -24,6 +23,8 @@
                     Console.Write(i + " ");
                 }
             }
+            
+            Console.WriteLine();
         }
     }
 }
