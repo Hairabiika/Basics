@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class Matrix
+     
+    public class NumberPyramid
     {
         public static void Main()
         {
