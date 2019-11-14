@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class SpecialNumbers
     {
         public static void Main()
