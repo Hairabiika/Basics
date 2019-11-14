@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class Coins
+     
+    public class Cake
     {
         public static void Main()
         {
