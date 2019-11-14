@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class Reservation
     {
         public static void Main()
