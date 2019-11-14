@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class Grades
+     
+    public class Vacation
     {
         public static void Main()
         {
