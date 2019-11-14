@@ -1,7 +1,8 @@
 ﻿namespace Basic
 {
     using System;
-    public class LuggageTax
+     
+    public class CruiseShip
     {
         public static void Main()
         {
