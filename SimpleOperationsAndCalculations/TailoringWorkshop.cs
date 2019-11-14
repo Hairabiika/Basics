@@ -2,7 +2,7 @@
 {
     using System;
 
-    public class RecAreaAndPerim
+    public class TailoringWorkshop
     {
         public static void Main()
         {
