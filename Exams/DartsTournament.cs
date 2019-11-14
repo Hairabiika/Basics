@@ -1,6 +1,7 @@
 ﻿namespace Basic
 {
     using System;
+     
     public class DartsTournament
     {
         public static void Main()
